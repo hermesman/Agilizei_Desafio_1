@@ -1,4 +1,4 @@
-#Agilizei Bootcamp T06 - Desafio 01:tw-26a1:
+# Agilizei Bootcamp T06 - Desafio 01
 
 
 ##  Tecnologias Utilizadas
